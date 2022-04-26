@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AuglisB
 - 👀 I’m interested in security analytics and pen testing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any beginer projects
+- 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me on discord @Cloud_49! #3447
 
 <!---
