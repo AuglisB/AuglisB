@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @AuglisB
-- 👀 I’m interested in security based jobs i.e. analysis/cloud/adminstrative/etc.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any beginner projects
 
 
 <!---
